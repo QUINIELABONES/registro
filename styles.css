@@ -73,14 +73,15 @@ h1{
     background-color: teal;
     text-align: center;
     padding: 20px;
-    color: rgb(24, 8, 247);
+    color: rgb(239, 239, 241);
     margin-top: 11.8%;
     border: solid 1px black;
     border-radius: 0 0 14px 14px;
     background: -webkit-linear-gradient(0.5turn, rgb(5, 58, 163)  ,rgb(0, 33, 95) 80%);
-    background: linear-gradient(0.5turn, rgb(250, 250, 250)  ,rgb(255, 255, 255) 80%);
+    background: linear-gradient(0.5turn, rgb(104, 10, 10)  ,rgb(73, 8, 226) 80%);
     font-size: x-large;
 }
+
 
 h2,h3{
     background:  linear-gradient(0,  rgb(0, 175, 0) 20%, #4ac959 90%);
@@ -172,7 +173,7 @@ p{
 }
 
 #display{
-    border: solid rgb(182, 247, 3) 2px;
+    border: solid rgb(3, 158, 247) 2px;
     width: 100%;
     background-color: rgb(250, 250, 250);
     border-radius: 0px;
@@ -185,6 +186,7 @@ p{
     border-right: 1px solid rgb(20, 3, 252);
     text-align: center;
 }
+
 
 
 h4{
@@ -220,11 +222,10 @@ h6{
     font-weight: bolder;
 }
 footer a{
-    background-color: #070bf3;
+    background:  linear-gradient(0,  rgb(6, 116, 243) 20%, rgb(248, 248, 248) 90%);
     color: rgb(255, 255, 255);
     text-decoration: none;
     font-weight: bold;
     border-radius: 5px;
     padding: 5px;
 }
-
